@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/AnaMenu.unity
+    guid: 4f483a4aa3269fb4caf3db0f8afe4499
+  - enabled: 1
+    path: "Assets/Scenes/Ozelle\u015Ftir.unity"
+    guid: dbd8ed4252add854d86d038926b97c15
+  - enabled: 1
+    path: "Assets/Scenes/LevelSe\xE7.unity"
+    guid: 9d686a43a4983274d9fa921c7e34bc96
+  - enabled: 1
+    path: Assets/Scenes/Market.unity
+    guid: f1946aff409c1e94d841dff047c297a7
+  - enabled: 1
+    path: Assets/Scenes/Ayarlar.unity
+    guid: f06757730d1bffc4f889fa3760093719
+  - enabled: 1
+    path: Assets/Scenes/Leveller/Level1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Leveller/Level2.unity
+    guid: b487e403b11f741469aeb87d1a2531eb
+  m_configObjects: {}
